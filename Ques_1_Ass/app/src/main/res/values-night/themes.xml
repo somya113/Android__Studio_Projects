@@ -1,0 +1,8 @@
+<resources>
+    <!-- Night qualifiers: used when AppCompat night mode is YES (dark theme). -->
+    <style name="Base.Theme.Ques_1_Ass" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Optional: override dark theme colors here -->
+    </style>
+
+    <style name="Theme.Ques_1_Ass" parent="Base.Theme.Ques_1_Ass" />
+</resources>
