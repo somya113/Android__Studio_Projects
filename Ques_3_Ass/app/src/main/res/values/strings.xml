@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ques_3_Ass</string>
+    <string name="sensor_data_title">Sensor Data</string>
+    <string name="accelerometer_default">Accelerometer: Not available</string>
+    <string name="light_default">Light: Not available</string>
+    <string name="proximity_default">Proximity: Not available</string>
+    <string name="sensor_not_available">"%1$s: Not available on this device"</string>
+    <string name="sensor_name_accelerometer">Accelerometer</string>
+    <string name="sensor_name_light">Light</string>
+    <string name="sensor_name_proximity">Proximity</string>
+    <string name="accelerometer_value_format">Accelerometer:\nX = %1$.2f m/s2\nY = %2$.2f m/s2\nZ = %3$.2f m/s2</string>
+    <string name="light_value_format">Light: %1$.2f lx</string>
+    <string name="proximity_value_format">Proximity: %1$.2f cm</string>
+</resources>
